@@ -28,7 +28,7 @@ lib/
 ## Setup & Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/getx_product_app.git
+git clone https://github.com/Jashuvo/getx_product_app.git
 ```
 
 2. Get dependencies
