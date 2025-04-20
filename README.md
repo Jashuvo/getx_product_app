@@ -1,49 +1,16 @@
-# GetX Product App 🚀
+# getx_product_app
 
-## Overview
-A Flutter e-commerce product catalogue demonstrating clean architecture and GetX state management.
+A new Flutter project.
 
-## Features
-- 📱 Product listing with card views
-- 🔍 Real-time product search
-- 🏷️ Category-based filtering
-- 📖 Detailed product pages
-- 🎨 Modern responsive UI
+## Getting Started
 
-## Tech Stack
-- Flutter
-- GetX
-- DummyJSON API
+This project is a starting point for a Flutter application.
 
-## Project Structure
-```
-lib/
-├── controllers/    # GetX controllers
-├── models/         # Data models
-├── views/         # UI screens
-├── services/      # API services
-└── utils/         # Helper functions
-```
+A few resources to get you started if this is your first Flutter project:
 
-## Setup & Installation
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/getx_product_app.git
-```
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-2. Get dependencies
-```bash
-flutter pub get
-```
-
-3. Run the app
-```bash
-flutter run
-```
-
-## API Integration
-Using [DummyJSON](https://dummyjson.com/):
-- Products List: `/products?limit=100`
-- Search: `/products/search?q={query}`
-- Categories: `/products/categories`
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
